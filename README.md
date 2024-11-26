@@ -13,6 +13,5 @@ cybersecurity, estou estudando e me aprofundando cada vez mais, sou iniciante em
 
 ### Contate-me
 
-[![contato](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lucasdx7890@gmail.com)
 [![contato](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/llucas_felip3/)
 [![contato](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-felipe-pereira-amorim-2773092a7/)
