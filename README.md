@@ -19,7 +19,7 @@ Atualmente, estou me aprofundando nas seguintes tecnologias:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,java,python,git,mysql,docker" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,java,python,git,mysql," />
   </a>
 </p>
 
